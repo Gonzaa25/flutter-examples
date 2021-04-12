@@ -1,0 +1,18 @@
+{
+  "@@locale": "es",
+
+  "mensaje": "Has pulsado el boton todas estas veces:",
+  "@mensaje": {
+    "descripcion": "Mensaje de por default"
+  },
+
+  "bienvenida": "Hola!",
+  "@bienvenida": {
+    "descripcion": "Bienvenida por default"
+  },
+
+  "titulo":"Ejemplo de internacionalización",
+  "@titulo":{
+      "descripcion":"texto para titulo"
+  }
+}

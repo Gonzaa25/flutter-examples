@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+
+  "mensaje": "You have pushed the button this many times:",
+  "@mensaje": {
+    "descripcion": "message text"
+  },
+
+  "bienvenida": "Hi!",
+  "@bienvenida": {
+    "descripcion": "The conventional newborn programmer greeting"
+  },
+
+  "titulo":"Internationalization example",
+  "@titulo":{
+      "descripcion":"title text"
+  }
+}
